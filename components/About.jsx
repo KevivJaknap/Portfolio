@@ -5,7 +5,7 @@ export default function About() {
       <span className="font-font1 text-5xl font-bold">About Me</span>
       <div className="m-6">
         <p className="text-2xl font-font1 m-4">
-          I'm a web developer with a passion for creating beautiful, intuitive,
+          I am a web developer with a passion for creating beautiful, intuitive,
         user-friendly and minimalistic websites.
         </p>
         <p className="text-2xl font-font1 m-4">
