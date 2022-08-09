@@ -16,7 +16,7 @@ export default function NavBar() {
   return (
     <div className="relative">
       <nav className="font-font1 flex py-2">
-        <div className="grow-[10] m-2 ml-10 text-3xl">James Smith</div>
+        <div className="grow-[10] m-2 ml-10 text-3xl">Keviv Jaknap</div>
         <div className="hidden sm:flex m-2 grow-[1] text-2xl">
           <div className="px-3">
             <Link href="#about">About</Link>
