@@ -32,7 +32,7 @@ export default function Intro() {
             }}
           >
             <div className="flex flex-col w-96 h-96 items-center justify-center border-black border-2">
-              <h1 className="text-6xl font-font1">I'm</h1>
+              <h1 className="text-6xl font-font1">I am</h1>
               <h1 className="text-6xl font-font1">
                 <span className="font-bold">James</span>
               </h1>
